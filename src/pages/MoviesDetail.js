@@ -22,6 +22,7 @@ const MovieDetail = ()=>{
     }
     
     const imageUrl = "https://image.tmdb.org/t/p/w500/"+movie.poster_path
+
     return(
         <div className={style.detailContainer}>
             
