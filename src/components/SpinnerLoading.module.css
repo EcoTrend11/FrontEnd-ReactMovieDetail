@@ -6,7 +6,7 @@
 }
 
 .spinning{
-    animation: spinner 1s linear infinite
+    animation: spinner 5s linear infinite
 }
 
 @keyframes spinner {    

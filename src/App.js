@@ -12,10 +12,6 @@ import MovieDetail from './pages/MoviesDetail';
 import LandingPage from './pages/LandingPage';
 
 
-
-
-
-
 function App() {
   return (
     <Router>
